@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 // BOJ2751 수 정렬하기2 <정렬하기>
-public class boj2751 {
+public class boj2751_sorting {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 

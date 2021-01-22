@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 // BOJ10989 <정렬 단계> <Counting Sort>
-public class boj10989 {
+public class boj10989_sorting {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
