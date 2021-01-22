@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 // BOJ1018 통계학 <정렬 단계>
-public class boj2108_sorting {
+public class boj2108 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
