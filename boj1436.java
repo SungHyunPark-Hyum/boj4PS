@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+//
 //BOJ_1436 영화감독 숌 <브루트포스>
 public class boj1436 {
 

@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+//
 //BOJ_7568 덩치 <브루트포스>
 public class boj7568 {
     public static class Node {

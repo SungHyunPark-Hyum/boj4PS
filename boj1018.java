@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+//
 //BOJ_1018 체스판 다시 칠하기 <브루트포스>
 public class boj1018 {
     public static char[][] mat;
