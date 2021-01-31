@@ -42,7 +42,7 @@ public class Quick_sorting_medianOfthree {
             print();
         }
         if(l < r){
-m
+
             int q = partition(arr, l+1, r-1);
             System.out.println("after partition");
             print();
