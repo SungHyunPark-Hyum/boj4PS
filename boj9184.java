@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-// BOJ 9184 신나는 함수 실행 <동적 계획법 1>
+// BOJ 9184 신나는 함수 실행 <동적 계획법 1>.
 public class boj9184 {
     public static int[][][] dp = new int[101][101][101];
 

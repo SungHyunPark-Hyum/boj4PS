@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-// BOJ 1003 피보나치 함수 <동적 계획법 1>
+// BOJ 1003 피보나치 함수 <동적 계획법 1>.
 public class boj1003 {
     public static int[][] dp;
 
