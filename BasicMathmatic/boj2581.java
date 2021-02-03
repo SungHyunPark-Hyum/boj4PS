@@ -1,3 +1,5 @@
+package BasicMathmatic;
+
 import java.io.*;
 
 // BOJ 2581 소수 <기본 수학 2단계>
