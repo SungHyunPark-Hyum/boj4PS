@@ -1,3 +1,5 @@
+package BasicMathmatic;
+
 import java.io.*;
 
 // BOJ 1193 분수찾기 <기본 수학 1단계>

@@ -1,3 +1,5 @@
+package BasicMathmatic;
+
 import java.util.*;
 import java.io.*;
 
