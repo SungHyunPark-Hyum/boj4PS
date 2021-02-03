@@ -1,12 +1,10 @@
-package Sorting;
+package Algorithm.Sorting;
 
 // O(n log(n))
 
 // Sort in place - 추가 배열 불필요
 // merge_sort의 경우 추가배열 필요
 // 이진 힙(binary heap) 자료구조를 사용
-
-import java.util.ArrayList;
 
 public class Heap_sorting {
     public static int[] arr = {5, 6, 2, 8, 7, 23, 4, 1, 10};

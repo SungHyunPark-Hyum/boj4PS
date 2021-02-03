@@ -1,4 +1,4 @@
-package Sorting;
+package Algorithm.Sorting;
 
 // 최악 : O(n^2)
 // 최선 : O(n log(n))
