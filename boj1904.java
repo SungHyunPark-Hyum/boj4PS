@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-// BOJ 1904 01타일 <동적 계획법 1>
+// BOJ 1904 01타일 <동적 계획법 1>.
 public class boj1904 {
     public static int[] dp;
     public static void func(int n){
