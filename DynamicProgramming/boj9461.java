@@ -1,3 +1,5 @@
+package DynamicProgramming;
+
 import java.io.*;
 
 // BOJ 9461 파도반 수열 <동적 계획법 1>
