@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-// BOJ 1002 터렛 <기본 수학 2단계>
+// BOJ 1002 터렛 <기본 수학 2단계>.
 public class boj1002 {
     public static int func(int x1, int y1, int r1, int x2, int y2, int r2) {
         int distance_pow = (int)Math.pow((x1 - x2), 2) + (int)Math.pow((y1 - y2), 2);
