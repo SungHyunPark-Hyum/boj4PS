@@ -1,7 +1,6 @@
-package Sorting;
+package Algorithm.Sorting;
 
 import java.io.*;
-import java.util.*;
 
 // Comparator vs Comparable
 public class sorting_class {
