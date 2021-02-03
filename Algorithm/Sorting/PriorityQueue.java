@@ -1,7 +1,6 @@
-package Sorting;
+package Algorithm.Sorting;
 
 import java.io.*;
-import java.util.*;
 
 public class PriorityQueue {
     public int[] arr;
