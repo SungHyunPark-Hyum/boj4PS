@@ -1,3 +1,5 @@
+package BasicMathmatic;
+
 import java.io.*;
 
 // BOJ 2839 설탕 배달 <기본 수학 1단계>
