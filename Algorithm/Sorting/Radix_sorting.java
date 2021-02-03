@@ -1,4 +1,4 @@
-package Sorting;
+package Algorithm.Sorting;
 
 // O(dn)
 
