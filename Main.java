@@ -8,12 +8,9 @@ public class Main {
     public static ArrayList<Integer> arr2;
 
     public static void main(String[] args) {
-        arr1.add(3);
-        arr1.add(2);
-        arr2 = arr1;
-        Collections.sort(arr2);
-        System.out.println(arr1.get(0));
-        System.out.println(arr2.get(0));
+        String str = "01-abc123-한글1234";
+        String restr = str.replaceAll("[^0-9]","");
+        System.out.println(str + " ==> " + restr);
 
     }
 }
