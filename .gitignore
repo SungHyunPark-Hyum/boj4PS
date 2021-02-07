@@ -1,5 +1,5 @@
 ### macOS template
 *.DS_Store
 
-### test class
+### Main.java class for test
 Main.java
