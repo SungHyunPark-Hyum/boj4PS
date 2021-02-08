@@ -1,7 +1,7 @@
 import java.io.*;
 
 // BOJ 10844 쉬운 계단 수 <동적 계획법>
-// not yet, try later
+// not yet, will try later
 public class boj10844 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
