@@ -1,7 +1,6 @@
-package Stack;
+package Stack_Queue_Deque;
 
 import java.io.*;
-import java.util.ArrayList;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
