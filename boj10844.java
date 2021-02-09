@@ -1,5 +1,3 @@
-package Stack_Queue_Deque;
-
 import java.io.*;
 
 // BOJ 10844 쉬운 계단 수 <동적 계획법>
