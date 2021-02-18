@@ -3,7 +3,7 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ 11053 가장 긴 증가하는 부분 수열 <동적 계획법 1>
+// BOJ 11053 가장 긴 증가하는 부분 수열 <동적 계획법 1>.
 public class boj11053 {
     public static int N;
 
