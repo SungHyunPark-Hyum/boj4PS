@@ -5,7 +5,7 @@ import java.util.*;
 
 // BOJ 10816 숫자 카드 2 <이분 탐색>
 // with TreeMap
-public class boj10816 {
+public class boj10816_TreeMap {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
