@@ -1,10 +1,12 @@
+package BinarySearch;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
 // BOJ 2805 나무 자르기 <이분 탐색>
-public class boj2805 {
+public class boj2805_TimeOut {
     public static long N, M;
     public static ArrayList<Long> trees;
 
