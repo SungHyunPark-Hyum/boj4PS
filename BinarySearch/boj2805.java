@@ -50,6 +50,8 @@ public class boj2805 {
         for(int i=0; i<N; ++i) {
             trees.add(Long.parseLong(st.nextToken()));
         }
+
+        // no need to sort in here !!
         Collections.sort(trees, Collections.reverseOrder());
 
         System.out.println(solution());
