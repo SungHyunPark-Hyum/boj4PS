@@ -1,8 +1,10 @@
+package BinarySearch;
+
 import java.io.*;
 
 // BOJ 10844 쉬운 계단 수 <동적 계획법>
 // not yet, will try later
-public class boj10844 {
+public class boj10844_TimeOut {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int N = Integer.parseInt(br.readLine());
