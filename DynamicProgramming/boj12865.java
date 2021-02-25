@@ -1,4 +1,4 @@
-package BinarySearch;
+package DynamicProgramming;
 
 import java.io.*;
 import java.util.*;
