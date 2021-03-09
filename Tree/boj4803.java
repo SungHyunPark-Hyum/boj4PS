@@ -1,7 +1,6 @@
 package Tree;
 
 import java.io.*;
-import java.lang.reflect.Array;
 import java.util.*;
 
 // BOJ 4803 트리 <트리>
