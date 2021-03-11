@@ -3,7 +3,7 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ 12852 1로 만들기 2 <동적 계획법과 최단거리 역추적>
+// BOJ 12852 1로 만들기 2 <동적 계획법과 최단거리 역추적>.
 public class boj12852 {
     public static int N;
     public static int[] dp;
