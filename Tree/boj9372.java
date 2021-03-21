@@ -1,12 +1,10 @@
 package Tree;
 
 import java.io.*;
-import java.lang.reflect.Array;
 import java.util.*;
 
 // BOJ 9372 상근이의 여행
 public class boj9372 {
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         //    2
