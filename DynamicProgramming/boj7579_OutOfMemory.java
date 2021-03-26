@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 // BOJ 7579 앱 <Dynamic Programming 2>
-public class boj7579 {
+public class boj7579_OutOfMemory {
 
     public static void solution(int[] mArr, int[] cArr, int M, int mSum, int cSum){
         int N = mArr.length;
