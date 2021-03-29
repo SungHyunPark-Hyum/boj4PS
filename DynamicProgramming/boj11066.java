@@ -9,18 +9,21 @@ public class boj11066 {
 
     public static void solution(int[] chapters, int[] sum, int K) {
         int[][] dp = new int[K][K];
+        int[][] kp = new int[K][K];
         for (int i = 0; i < K - 1; ++i) {
-            dp[i][i + 1] = chapters[i] + chapters[i + 1];
+            dp[i][i + 1] = chapters[i] + chapters[i+1];
+            kp[i][i + 1] = i;
         }
 
         for (int gap = 2; gap < K; ++gap) {
-            for (int i = 0; i < K; ++i) {
+            for (int i = 0; i < K-gap; ++i) {
                 int j = i + gap;
-                if(j >= K)
-                    continue;
                 dp[i][j] = Integer.MAX_VALUE;
-                for (int k = i; k < j; ++k) {
-                    dp[i][j] = Math.min(dp[i][k] + dp[k + 1][j] + sumDist(sum, i, j), dp[i][j]);
+                for (int k = kp[i][j-1]; k <= kp[i+1][j]; ++k) {
+                    if(dp[i][j] > dp[i][k] + dp[k + 1][j] + sumDist(sum, i, j)){
+                        dp[i][j] = dp[i][k] + dp[k + 1][j] + sumDist(sum, i, j);
+                        kp[i][j] = k;
+                    }
                 }
             }
         }
