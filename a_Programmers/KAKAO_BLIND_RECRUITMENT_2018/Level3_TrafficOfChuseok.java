@@ -1,4 +1,4 @@
-package a_Programmers.KAKAO_BLIND_RECRUITMENT;
+package a_Programmers.KAKAO_BLIND_RECRUITMENT_2018;
 import java.util.*;
 
 public class Level3_TrafficOfChuseok {
