@@ -3,7 +3,7 @@ package DynamicProgramming;
 import java.io.*;
 import java.util.*;
 
-// BOJ 2629 양팔저울
+// BOJ 2629 양팔저울.
 public class boj2629 {
     public static boolean[] visit = new boolean[40501];
     public static StringBuilder sb = new StringBuilder();
