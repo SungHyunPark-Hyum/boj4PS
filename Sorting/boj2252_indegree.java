@@ -3,7 +3,7 @@ package Sorting;
 import java.io.*;
 import java.util.*;
 
-// BOJ 줄 세우기 <indegree>
+// BOJ 줄 세우기 <indegree>.
 public class boj2252_indegree {
     public static ArrayList<Integer>[] tree;
     public static Stack<Integer> stk;
