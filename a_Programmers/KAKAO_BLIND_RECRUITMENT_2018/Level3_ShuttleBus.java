@@ -1,7 +1,6 @@
-package a_Programmers.KAKAO_BLIND_RECRUITMENT;
+package a_Programmers.KAKAO_BLIND_RECRUITMENT_2018;
 
 import java.io.*;
-import java.util.*;
 
 // Programmers [1차] 셔틀버스
 public class Level3_ShuttleBus {
