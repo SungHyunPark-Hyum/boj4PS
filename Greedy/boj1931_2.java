@@ -1,8 +1,10 @@
+package Greedy;
+
 import java.io.*;
 import java.util.*;
 
 // BOJ 1931 회의실 배정
-public class boj1931 {
+public class boj1931_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(br.readLine());
