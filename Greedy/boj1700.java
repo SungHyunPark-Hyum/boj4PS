@@ -35,7 +35,7 @@ public class boj1700 {
                     int outIndex = getOutIndex();
                     int out = tab.get(outIndex);
                     tab.remove(outIndex);
-                    hm.put(out, i);
+                    hm.put(out, i); 
                     count++;
                 }
                 tab.add(now);
