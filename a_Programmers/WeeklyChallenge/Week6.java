@@ -3,7 +3,7 @@ package a_Programmers.WeeklyChallenge;
 import java.util.*;
 
 class Week6 {
-    
+
     class Solution {
         public int[] solution(int[] weights, String[] head2head) {
             ArrayList<Boxer> arr = new ArrayList<Boxer>();
