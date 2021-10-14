@@ -1,7 +1,7 @@
 package a_Programmers.WeeklyChallenge;
 
 import java.util.*;
- 
+
 public class Week9 {
 
     class Solution {
