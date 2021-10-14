@@ -25,7 +25,7 @@ public class Week9 {
             int total = wires.length;
             int answer = Integer.MAX_VALUE;
 
-            for(int[] wire : wires){ 
+            for(int[] wire : wires){
                 init();
                 visited[wire[0]] = visited[wire[1]] = true;
                 int sum = dfs(wire[0]);
