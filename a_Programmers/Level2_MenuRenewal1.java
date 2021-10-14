@@ -2,7 +2,7 @@ package a_Programmers;
 
 import java.util.*;
 
-public class Level2_MenuRenewal {
+public class Level2_MenuRenewal1 {
 
     class Solution {
         public Queue<String> ans;
