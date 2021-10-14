@@ -20,7 +20,7 @@ public class Week9 {
             for(int[] wire : wires){
                 this.tree[wire[0]].add(wire[1]);
                 this.tree[wire[1]].add(wire[0]);
-            }
+            } 
 
             int total = wires.length;
             int answer = Integer.MAX_VALUE;
